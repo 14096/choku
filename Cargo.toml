@@ -1,0 +1,10 @@
+[package]
+name = "choku"
+version = "0.0.1"
+edition = "2024"
+description = "Terminal styling library for rust"
+homepage = "https://github.com/14096/choku"
+repository = "https://github.com/14096/choku"
+license = "MIT"
+
+[dependencies]
